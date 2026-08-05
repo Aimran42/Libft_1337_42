@@ -48,7 +48,7 @@ SRCS =  ft_atoi.c \
 	ft_split.c \
 	ft_strlen.c \
 	ft_tolower.c \
-	ft_strchr.c 
+	ft_strchr.c
 
 BONUS_SRCS = ft_lstlast_bonus.c \
 	ft_lstmap_bonus.c \
